@@ -1,14 +1,14 @@
-:root{
-  --verde-destaque: #81FE88;
-  --verde-pastel: #BFFFC3;
-  --verde-petroleo: #132E35;
-  --grafite: #01080E;
-  --cinza-escuro: #171D1F;
-  --cinza: #3E3E3F;
+:root {
+  --verde-destaque: #81fe88;
+  --verde-pastel: #bfffc3;
+  --verde-petroleo: #132e35;
+  --grafite: #01080e;
+  --cinza-escuro: #171d1f;
+  --cinza: #3e3e3f;
   --cinza-medio: #888888;
-  --cinza-claro: #BCBCBC;
-  --offwhite: #E1E1E1;
-  --branco: #FFFFFF;
+  --cinza-claro: #bcbcbc;
+  --offwhite: #e1e1e1;
+  --branco: #ffffff;
 
   --fonte: "Prompt", sans-serif;
 }
