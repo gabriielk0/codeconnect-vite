@@ -1,11 +1,15 @@
-export default function Filtro() {
-    return (
-        <section className="container-filtro">
-            <ul>
-                <li>Programação</li>
-            </ul>
+import './styles.css'
 
-            <button>Limpar Tudo</button>
-        </section>
-    )
+export default function Filtro() {
+  return (
+    <section className="container-filtro">
+      <ul>
+        <li>Front-end</li>
+        <li>React</li>
+        <li>Acessibilidade</li>
+      </ul>
+
+      <button>Limpar Tudo</button>
+    </section>
+  );
 }

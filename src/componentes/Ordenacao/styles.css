@@ -1,0 +1,21 @@
+.ordenacao{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    gap: 24px;
+    margin: 56px 0 32px 0;
+}
+
+.ordenacao__item {
+    color: var(--verde-destaque);
+    text-decoration: underline;
+}
+
+.ordenacao__item a {
+    cursor: pointer;
+}
+
+.ordenacao__item-inativo {
+    color: var(--cinza-medio);
+    text-decoration: none;
+}
